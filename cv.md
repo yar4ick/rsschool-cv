@@ -19,7 +19,7 @@ I am highly-motivated to build upon my knowledge and continue to learn to effect
 | 2014 - 2015    | Operations Support Specialist   | IT & Telecommunications  |
 | 2012 - 2014    | Specialist                      | Social Services & Culture|
 
-## Education And Training
+## Education
 
 + 2019 - 2020 Master of Science in Informatics
 + 2007 - 2012 Bachelor of Art in Philology
