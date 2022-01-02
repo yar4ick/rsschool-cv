@@ -7,8 +7,7 @@
 
 ## About Me
 
-An enthusiastic and adaptable individual who is seeking a new challenging career after many years of being in a Project Coordinator position (IT industry).  
-As a result-oriented and hardworking individual, I am keen to follow my dream of becoming a Software Engineer.   
+An enthusiastic and adaptable individual who is seeking a new challenging career after many years of being in a Project Coordinator position (IT industry). As a result-oriented and hardworking individual, I am keen to follow my dream of becoming a Software Engineer.   
 I am highly-motivated to build upon my knowledge and continue to learn to effectively perform at a Junior Front-End Developer position. Possess a MS in Informatics.
 
 ## Work Experience
@@ -39,7 +38,7 @@ I am highly-motivated to build upon my knowledge and continue to learn to effect
 + GCP (Google Cloud Platform)
 + Linux
 
-## Language Skills   
+## Languages
 
 **Mother tongues** 
 + Ukrainian
@@ -49,7 +48,7 @@ I am highly-motivated to build upon my knowledge and continue to learn to effect
 + English - B2
 + German - B1
 
-## Other Skills
+## Other
 
 + good *negotiation skills* gained through my experience as a Project Coordinator
 + *intercultural skills* due to work with people from different countries (Europe & US, India, Russia)
