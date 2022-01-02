@@ -12,12 +12,12 @@ I am highly-motivated to build upon my knowledge and continue to learn to effect
 
 ## Work Experience
 
-| Year           | Position                        | Business or Sector       |
-|----------------|---------------------------------|--------------------------|
-| 2018 - Present | Project Coordinator / Junior PM | IT & Telecommunications  |
-| 2015 - 2018    | Project Administrator           | IT & Telecommunications  |
-| 2014 - 2015    | Operations Support Specialist   | IT & Telecommunications  |
-| 2012 - 2014    | Specialist                      | Social Services & Culture|
+| Year           | Position                            | Business or Sector       |
+|----------------|-------------------------------------|--------------------------|
+| 2018 - Present | Project Coordinator / Group Manager | IT & Telecommunications  |
+| 2015 - 2018    | Project Administrator               | IT & Telecommunications  |
+| 2014 - 2015    | Operations Support Specialist       | IT & Telecommunications  |
+| 2012 - 2014    | Specialist                          | Social Services & Culture|
 
 ## Education
 
