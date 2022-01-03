@@ -1,0 +1,115 @@
+@font-face {
+    font-family: Spline Sans;
+     src: url("../assets/fonts/SplineSans-VariableFont_wght.ttf");
+   }
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth; 
+}
+
+body {
+    font-family: Spline Sans;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+table {
+    border-spacing: 5px;
+}
+
+footer {
+    margin-right: auto;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding-top: 10px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    color: rgb(63, 58, 56);
+    padding: 0 20px;
+}
+
+.name {
+    margin-top: -3px;
+    font-size: 30px;
+    text-align: right;
+}
+
+.section_text{
+    font-size: 15px;
+    word-spacing: normal;
+    line-height: 1.5;
+}
+
+.section_header {
+    color: rgb(14, 65, 148);
+    border-bottom: 1.5px solid rgb(21, 147, 203);
+    font-size: 20px;
+}
+
+.sub_section_header {
+    color: rgb(14, 65, 148);
+    font-size: medium;
+    margin: 0;
+}
+
+.contacts_text {
+    color: rgb(21, 147, 203);
+    font-size: 15px;
+    margin: 3px;
+}
+
+.photo {
+    padding-right: 10px;
+}
+
+.name_contacts {
+    display: flex;
+}
+
+.contacts_list {
+    line-height: 1;
+}
+
+.rc_logo {
+    width: 90px;
+    height: auto;
+    margin-top: 5px;
+
+}
+
+.github_logo {
+    width: 50px;
+    height: auto;
+    margin-bottom: 30px;
+
+}
+
+.skills_languages {
+    display: flex;
+    margin: 0 -20px;
+}
+
+.skills_languages > div {
+    padding: 0 20px;
+    width: 40%;
+}
+
+
